@@ -15,14 +15,6 @@ __Sample teste__
 * iTEM
 * iTEM
 * iTEM
-* item
-
-  
-| Header 1 | Header 2 |
-| -------- | -------- |
-| Row 1, Col 1 | Row 1, Col 2 |
-| Row 2, Col 1 | Row 2, Col 2 |
-
 
   
 | Header 1 | Header 2 |
@@ -32,4 +24,6 @@ __Sample teste__
 
 
 ## Alteração feita no Git Local H2
-### H3
+
+
+### Criado uma branch nova H3
